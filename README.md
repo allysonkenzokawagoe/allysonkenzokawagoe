@@ -7,7 +7,7 @@
 
 ## 📊 Status do GitHub
 
-![Allyson GitHub Stats](https://github-readme-stats.vercel.app/api?username=allysonkenzokawagoeE&show_icons=true&theme=tokyonight)
+![Allyson GitHub Stats](https://github-readme-stats.vercel.app/api?username=allysonkenzokawagoe&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allysonkenzokawagoe&layout=compact&theme=tokyonight)
 
 ---
