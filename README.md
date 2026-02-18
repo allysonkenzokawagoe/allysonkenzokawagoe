@@ -14,7 +14,7 @@
 
 ## 🔥 Sequência de Commits
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=allysonkenzokawagoe&theme=tokyonight)
 
 ---
 
